@@ -1,0 +1,47 @@
+/* font colors
+#F1B24A
+#FFFFFF */
+
+/* LIVE BACKGROUND WORK IN PROGRESS */
+/* html {
+    height: 100%;
+    -webkit-animation: bgcolor 30s infinite;
+    animation: bgcolor 10s infinite;
+    transition: 4s 1s;
+}
+
+
+@keyframes bgcolor {
+    0% {
+        background-image: linear-gradient(to bottom right, #164A41, #4D774E, #9DC88D);
+
+    }
+
+    25% {
+        background-image: linear-gradient(to bottom right, #4D774E, #9DC88D, #4D774E, #164A41);
+
+    }
+
+    50% {
+        background-image: linear-gradient(to bottom right, #9DC88D, #4D774E, #164A41, #4D774E);
+
+    }
+
+    75% {
+        background-image: linear-gradient(to bottom right, #4D774E, #164A41, #4D774E, #9DC88D);
+
+    }
+
+    100% {
+        background-image: linear-gradient(to bottom right, #164A41, #4D774E, #9DC88D);
+
+    }
+} */
+
+
+
+
+html {
+    background-image: linear-gradient(to bottom right, #164A41, #4D774E, #9DC88D);
+    height: 100%;
+}
