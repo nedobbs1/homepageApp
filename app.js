@@ -1,2 +1,7 @@
+const express = require("express");
+const bodyParser = require("body-parser");
+
+
+
 // WEATHER API 
-// fece7837721b5c411dc5a58133dff145
+// 
